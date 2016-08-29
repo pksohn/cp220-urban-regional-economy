@@ -24,7 +24,7 @@ Two key sectors in 1990:
 * Resource products/processes (Timber)
 
 | State | Transportation | Resources |  
-| -- | -- | -- |  
+| --- | --- | --- |  
 | WA | 5.9% | 10.3% |  
 | OR | 0.6% | 15.1% |  
 
