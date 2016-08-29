@@ -23,8 +23,8 @@ Two key sectors in 1990:
 * Transportation equipment (Manufacturing specialization, airplanes)
 * Resource products/processes (Timber)
 
-| | Transportation | Resources |
-| - | - | - |
+|   | Transportation | Resources |
+| -- | -- | -- |
 | WA | 5.9% | 10.3% |
 | OR | 0.6% | 15.1% |
 
@@ -32,3 +32,18 @@ Why the disparity?
 * Washington has a better port
 - When railway was being built across the US, went first to Seattle
 - Boeing set up in Seattle in 1916
+
+These advantages accumulate and there is **path dependency**.
+
+## Regions and Metropolitan Areas
+
+Metro areas:
+* Nodal in character
+* Have a center and a periphery
+* Tend to be more diverse, more heterogeneous
+* They tend to have a denser core because of travel and cost efficiencies, and a less dense periphery.
+
+Regions:
+* Subnational areas
+* Homogeneous across some characteristic (culture, resources)
+* Functionality (designated as a region, top-down designation as an administrative area)
