@@ -23,10 +23,10 @@ Two key sectors in 1990:
 * Transportation equipment (Manufacturing specialization, airplanes)
 * Resource products/processes (Timber)
 
-| State | Transportation | Resources |
-| -- | -- | -- |
-| WA | 5.9% | 10.3% |
-| OR | 0.6% | 15.1% |
+| State | Transportation | Resources |  
+| -- | -- | -- |  
+| WA | 5.9% | 10.3% |  
+| OR | 0.6% | 15.1% |  
 
 Why the disparity?
 * Washington has a better port
