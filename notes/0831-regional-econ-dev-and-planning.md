@@ -15,4 +15,38 @@ Product Cycle Theory | Products - new, maturing, standardized | Continual creati
 Entrepreneurship Theories | Entrepreneurs | Resilience and diversity | Innovation process, new combinations | Mediated theory | Support industrial milieu or ecology for development
 Flexible specialization Theories | Production regimes, industrial organization | Sustained growth through agile production, innovation, and specialization | Changes in demand requiring flexibility among producers | Detailed analysis of firm/industry organization, aggregate outcomes and relationships seldom specified | Flexibility through advanced tech, networks among small firms, industry clusters
 
+## Storper - Keys to the City - Ch 1 and 2
 
+Four analytic contexts
+* Economic
+* Institutional
+* Innovation or interaction
+* Political or Societal
+
+Concepts:  
+
+**The New Neoclassical Urban Economics (NNUE)**: "Preferences for amenities are central to the choices of individuals and households" (15). Principal amenities are "quality of life" and climate, households and individuals choose to maximize utility, and do so through mobility. Assumes constraints like income, then determines equilibrium spatial distribution of population and output. This defines the size of cities.  
+
+**General Spatial Equilibrium (GSE)**: "Consumers seek to maximize utility, which is a function of those wages, housing expenditures, and amenities; firms seek to maximize profits, and they have the possibility of full factor substitution across locations. Builders supply housing in response to demand and regulation...", etc (15).  
+
+The author appears to find both version of amenity-focused theory to be inadequate - "The world urban system...is not a set of playgrounds or amenity parks but instead a vast system of interlinked workshops."
+
+## Friedmann - The Wealth of Cities
+
+Seven clusters of a city's assets:
+* Human assets: basic human needs and quality of life (education, housing, health)
+* Organized civil society (self organizing of local citizens)
+* Built environment and cultural life (physical heritage, cultural traditions)
+* Intellectual and creative assets (universities, 'living human treasures')
+* Natural assets (farms, ocean, landscapes)
+* Environmental assets (air, water)
+* Urban infrastructure (transportation, energy, sewage, communication)
+
+> The true wealth of a city is to be found in the progressive development of its assets base through a concerted and sustained effort, largely from within itself.
+
+Responding to criticisms of endogenous development:
+* Not an exclusive strategy
+* Upgrading asset qualities itself stimulates foreign investment
+* Local savings can be substantial even in poor countries with fiscal discipline
+* Capital expenditures needed for endogenous development may not be so large
+* Clear priorities for public investment must be established
