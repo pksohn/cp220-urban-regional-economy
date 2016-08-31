@@ -1,6 +1,11 @@
+City Planning 220 - Urban and Regional Economy  
+August 31, 2016
+
 # Reading Notes
 
 ## Malizia and Feser - Understanding Local Economic Development
+
+Introduction to various economic development theories. Somewhat outdated text; many examples from 1980s economic development efforts. Useful table comparing characteristics of different theories of economic development:  
 
 Theory | Basic Categories | Definition of Development | Essential Dynamic | Strengths & Weaknesses | Applications
 --- | --- | --- | --- | --- | ---
@@ -14,6 +19,8 @@ Interregional Trade Theory | Prices/quantities of commodities and factors | Econ
 Product Cycle Theory | Products - new, maturing, standardized | Continual creation and diffusion of new products | Innovation, new product dev | Popular among researchers | Promote product innovation and diffusion
 Entrepreneurship Theories | Entrepreneurs | Resilience and diversity | Innovation process, new combinations | Mediated theory | Support industrial milieu or ecology for development
 Flexible specialization Theories | Production regimes, industrial organization | Sustained growth through agile production, innovation, and specialization | Changes in demand requiring flexibility among producers | Detailed analysis of firm/industry organization, aggregate outcomes and relationships seldom specified | Flexibility through advanced tech, networks among small firms, industry clusters
+
+Malizia, Emil and Feser, Edward.  1999. Chapters 1 and 2.  Understanding Local Economic Development. New Brunswick, NJ: Center for Urban Policy Research.
 
 ## Storper - Keys to the City - Ch 1 and 2
 
@@ -30,6 +37,8 @@ Concepts:
 **General Spatial Equilibrium (GSE)**: "Consumers seek to maximize utility, which is a function of those wages, housing expenditures, and amenities; firms seek to maximize profits, and they have the possibility of full factor substitution across locations. Builders supply housing in response to demand and regulation...", etc (15).  
 
 The author appears to find both version of amenity-focused theory to be inadequate - "The world urban system...is not a set of playgrounds or amenity parks but instead a vast system of interlinked workshops."
+
+Storper, Keys to the City, Chapter 1 & 2, pp.1-11, 14-31
 
 ## Friedmann - The Wealth of Cities
 
@@ -50,3 +59,22 @@ Responding to criticisms of endogenous development:
 * Local savings can be substantial even in poor countries with fiscal discipline
 * Capital expenditures needed for endogenous development may not be so large
 * Clear priorities for public investment must be established
+
+Friedmann, John. "The Wealth of Cities: Towards an Assets‐based Development of Newly Urbanizing Regions." Development and Change 38.6 (2007): 987-998.
+
+# Lecture Notes
+Examples of Jane Jacobs regions (continued):  
+* Supply Regions: Appalachia, coffee regions
+* Abandoned Regions: Detroit, gold rush towns, coal towns, factory towns where the factory has closed - Carbondale, CO.
+* Technology/Clearance Regions: These are places from which workers leave due to technology (no more jobs)
+* Transplants: Car factories in the south
+* Import-Replacing: Many examples. Boston, San Francisco in the US.
+* Regions without cities: Tennessee Valley Authority being Jacobs's example, places where large infrastructure investments don't spur endogenous development.
+
+From Malizia and Feser: Distinction between **Growth** and **Development**: Growth as quantitative increase of output, productivity, wages, jobs. Development as structural, qualitative changes in institutions and resources.
+
+.   | Low Development | High Development
+---| --------------- | ----------------
+High Growth | Efficiency | Transportation infrastructure?
+Low Growth | Land? |Human capital, freedom, enfranchisement 
+
