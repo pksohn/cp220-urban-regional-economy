@@ -73,8 +73,20 @@ Examples of Jane Jacobs regions (continued):
 
 From Malizia and Feser: Distinction between **Growth** and **Development**: Growth as quantitative increase of output, productivity, wages, jobs. Development as structural, qualitative changes in institutions and resources.
 
+Can plot various factors on the axes of growth and development:
+
 .   | Low Development | High Development
 ---| --------------- | ----------------
-High Growth | Efficiency | Transportation infrastructure?
+High Growth | Efficiency, land? | Transportation infrastructure? Agglomeration
 Low Growth | Land? |Human capital, freedom, enfranchisement 
+
+Other factors to consider:
+* Culture and social capital
+* Systems of communication
+* Migration
+* Health and happiness
+* Justice/legal structure
+* Security
+
+
 
