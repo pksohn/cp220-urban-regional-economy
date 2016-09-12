@@ -55,7 +55,7 @@ The core goal of this piece:
 
 > It should be apparent that what I am reaching for is the specification of a function which relates external economies and diseconomies to industry structure, size being held constant. 
 
-Some variables of interest: 
+Some variables of interest in terms of *industry structure*: 
 
 * *Entrepreneurship*: Old assumption is that supply schedule of entrepreneurship is even across all locations. Chinitz argues that more competitive industries actually
  have more entrepreneurs per unit output than more oligopolistic industries. This makes a place like NYC more entrepreneurial than Pittsburgh with its large steel companies.  
@@ -64,9 +64,58 @@ Some variables of interest:
     * Dispersion of dominant employment centers throughout the region, which changes the geography of commuting / labor shed
     * Work schedule: Less predictable work schedules (steel) makes it difficult for women to enter the workforce (this is written in 1961)
 * *Land*: Pittsburgh was known at the time as excessibly polluted.
-* *Intermediate Goods and Services*: Finally, external economies:
+* *Intermediate Goods and Services*: 
 
 > Large firms incorporate many of these services within their own operations becaue they can achieve scale economies within the firm...
 on the other hand, this means that, dollar for dollar, their business is less of a stimulus to the creation of a community of independent suppliers.  
 
 Chinitz, Benjamin. 1961. "Contrasts in Agglomeration: New York and Pittsburgh." American Economic Review: Papers and Proceedings 51:279-289.
+
+# Lecture Notes
+
+From last time:  
+* Weberian cost-minimization
+* Market area theory (businesses locate according to where market areas area - General Equilibrium Model - Von Thunen, Christaller)
+
+Alonso describes a process in which store locations ('s' below) tend to converge. Imagine a beach with two stores:  
+|----s--------s----|
+
+In order to capture the largest market, stores will converge to middle of the beach:  
+|--------ss--------|
+
+Oligopolistic businesses tend to cluster in this way, e.g. car dealerships. Businesses want to be able to "keep tabs" on competitors. What is the welfare effect on the public? 
+Often clustering is not beneficial to the public. 
+
+## Agglomeration concepts
+
+* *Internal economies*: 
+    * Of scale: decreases in production cost per unit as you produce more units (because you're sharing a fixed cost) 
+    * Of scope: decreases in production cost per unit as you produce different kinds of units (compared to producing these separately)
+* *External economies*: 
+    * Localization (**Marshallian economies**): Shared volume of activity within the same industry - e.g. jewelry or garment industries, you have productivity increases 
+    (falling unit costs) because you're near other producers making similar things. Alfred Marshall's work on Garment District. 
+        * Specialized inputs and services available, transportation network, distribution/market/suppliers, knowledge spillovers. 
+        * Focus on *specialization* and clusters: 
+        "our region needs to get really good at producing one thing." This tends to increase regional incomes, but there are risks in specializing (e.g. Detroit, Pittsburgh), 
+        and when you specialize you also tend to suppress development in other sectors. Seattle is another example of risk with a monopsonistic situation (one buyer). 
+    * Urbanization (**Jacobian economies**): Shared volume of activity in urban area *across industries*, infrastructure costs are driven down. 
+    Reduces uncertainty of processes (e.g. if your preferred caterer is booked, there are several others).
+        * Focus on *diversity*: Often as a reaction to overspecialization, making sure you have many different types of industries.
+* What about *diseconomies* of agglomeration?
+    * Increased labor costs
+    * Increased land costs
+    * Increased congestion
+
+## Vernon - External Economies 
+
+Key question: Why does economic activity continue to concentrate in NYC? Given that labor and land costs are very high, no particular geographic advantage (anymore). 
+This applies to Silicon Valley as well today.   
+External economy industry: these firms share facilities, and are continually changing products and responding to markets. These firms don't spend much money on fixed capital
+ (machinery, buildings, even employee training because of labor pool). This situation minimizes risk.
+
+## Chinitz - Contrasts in Agglomeration: New York and Pittsburgh
+
+*Industry structure* as the key variable in explaining various supply side factors, including labor, land, capital, etc.
+
+## Other ideas
+QWERTY phenomenon: importance of historial accidents, "technological lock-in", and path dependence in regional economics.   
