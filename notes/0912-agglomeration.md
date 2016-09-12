@@ -30,6 +30,11 @@ relatively high trade costs, firms will concentrate spatially.
     * As long as there are some trade costs, it makes sense to concentrate suppliers close to where buyers are located (p. 36). This sets off (in an unresolved chicken-egg way)
     a system in which "workers seek jobs and the income they provide, but also seek variety of consumption opportunities and lower prices." Thus, *self-reinforcing urbanization.*
 
+What goes on inside clusters:
+* Sharing
+* Matching
+* Learning
+
 ## Vernon - External Economies
 
 The key argument is that NYC is a locational advantage for "external-economy industries", or those industries that share characteristics such as:
