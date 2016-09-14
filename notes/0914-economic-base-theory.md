@@ -15,11 +15,11 @@ Onto Katz and Bradley. They basically championed the role of cities and regions,
 ## Katz and Bradley
 Criticism of the quantitative approach to economics that distorts the “noncommercial, qualitative nature” of economic well-being. Power’s argument is one that is being made today regarding data science: models are helpful and necessary, but distorting and assumption-laden. When we are perplexed and confused by complexity, the inherent distortions of economic modeling might blind us from the implications of decisions based on such.
 
-##Overview of economic base: 
+####Overview of economic base: 
 money is the object of analysis, and the only way regions can produce money is through exporting goods via trade that brings dollars in.
-##Historical lens: 
+####Historical lens: 
 French physiocrats believed that only land and labor were resources; everything else (including manufacturing) were derivative. Industrial revolution changed that. Marx et al brought manufacturing into the “productive” realm but felt that service providers, financiers, govt workers, et al were merely parasites. This view of the BASE persists; stimulating economic activity means expanding manufacturing or mining and protecting agriculture.
-##Economic-base model
+####Economic-base model
 Crude example: 
 *local firm exports $2M worth of goods. Can assume half circulates through local economy (other half may go to firm owner outside of region, external suppliers, etc).
 *Then, $1M in the wallets of local actors. Assume balance of personal investments flowing out of 	and into region.
@@ -30,7 +30,7 @@ Crude example:
 
 Implication of this model? Income multiplier and thus power of economy is based on fraction of goods imported; lower the fraction that “leaks” out to produce exports, and increase the multiplication factor. Suggests that the only income generation in an economy is through imports. In turn, you can estimate number of locally-oriented jobs created (via wage rate) by changes in export or import firms.
 
-##Local economic development v. economic growth
+####Local economic development v. economic growth
 In short, the sole focus on exports as growth engine ignore internal forces: population growth, age structure, changes in consumption patterns, workforce participation, etc
 One good example is that the multiplier grows as a local economy becomes more self-sufficient and relies on imports less. However, the export model will attribute the multiplier growth to exports and model cannot accurately predict how long multiplier effect will take.
 Empirical analyses have shown local growth to create exports more than the other way around, and service vs. non-service economies to push one another somewhat evenly.
