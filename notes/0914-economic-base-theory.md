@@ -12,7 +12,7 @@ On the other hand, Tiebout contends that there are other external factors at pla
 
 Onto Katz and Bradley. They basically championed the role of cities and regions, coming together to form a network of regional economies that defines the national economy, sort of ringing back to Jacobs' thesis. The key here is the focus on producing innovation and exporting it--it replicates horizontally across cities and also scales up vertically to the state and federal level. A substantial part of the chapter was spent attacking the feds and state governments: how they are present- and regulation-oriented such that 20th century Weberian ideas are propogated (specialization, process- rather than outcome-oriented), vs. how cities and regions reward innovation, drive change across different sectors of planning, etc. Overall it was very optimistic, and I definitely had to resist some eye rolls throughout. 
 
-## Katz and Bradley
+## Power
 Criticism of the quantitative approach to economics that distorts the “noncommercial, qualitative nature” of economic well-being. Power’s argument is one that is being made today regarding data science: models are helpful and necessary, but distorting and assumption-laden. When we are perplexed and confused by complexity, the inherent distortions of economic modeling might blind us from the implications of decisions based on such.
 
 ####Overview of economic base: 
