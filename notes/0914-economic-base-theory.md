@@ -68,3 +68,53 @@ Casinos, theater, etc can replace people’s purchase of durable goods and swap 
 Tremendous variation in rural vs. urban, richer vs. poorer consumption habits that affect the recirculation 
 Many industries evolve by first testing out products on a local consumer base as export-replacement and then expanding. Microbreweries and Borders bookstore are examples.
 Similarly, many cities are looking to enhance their quality-of-life to attract firms and people, irrespective of the “chicken-or-egg” conversation around jobs and people locating.
+
+
+# Lecture Notes
+
+How does the case of Twitter in San Francisco fit into North's and Tiebout's arguments? If you consider tech to be the economic base of the Bay Area, and Twitter as an export, keeping Twitter around certainly fits into the strategies advocated by North
+
+## Economic Base Theory
+
+```
+Gross Regional Product = (Consumption + Investments + Local Government Spending + Exports) - Imports 
+```
+
+North's position? Exports are the most important part of the formula above. Theory:
+
+```
+Exogenous demand -> Production -> Sales -> Income -> Consumption
+```
+
+This cycle has multifold benefits:
+* Direct income/jobs
+* Indirect income/jobs
+* Induced income/jobs
+
+North's straw man is Rostov's theory of the *stages of growth*, which is really about the great leap from agriculture to industry:
+
+* Subsistence agriculture
+* Simple industry (preconditions)
+* Take-off industrialization
+* Maturity
+* Consumption
+
+North argues for convergence (what does this mean?). 
+
+Tiebout argues that exports are not necessarily as singularly import as North believes, especially for large regions.
+
+*Multiplier* theory says that income from outside the region has residentiary effects. Basic and nonbasic activity; 
+basic is export activity and nonbasic is residentiary activity.
+
+```
+Economy = Basic + Nonbasic
+```
+
+Issues with this theory? What else it doesn't account for:
+* Job quality (full time/part time, wages)
+* Opportunity costs
+* Leakage
+
+
+Power takes Tiebout's arguments about nonbasic and service industries (and how they can promote growth) and expands on them. 
+Markusen builds further with theory about consumption; direct influence from Power, Tiebout, Chinitz.
