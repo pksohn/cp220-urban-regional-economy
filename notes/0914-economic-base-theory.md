@@ -35,14 +35,14 @@ In short, the sole focus on exports as growth engine ignore internal forces: pop
 One good example is that the multiplier grows as a local economy becomes more self-sufficient and relies on imports less. However, the export model will attribute the multiplier growth to exports and model cannot accurately predict how long multiplier effect will take.
 Empirical analyses have shown local growth to create exports more than the other way around, and service vs. non-service economies to push one another somewhat evenly.
 
-^“…imports, not exports, are the things that are important to us. For they are the goods we enjoy directly. Sending away our ^valuable production is not an economic good in itself. It is an economic “bad,” for we lose something unless the exports allow ^us to import something even more valuable to ourselves.”
+>“…imports, not exports, are the things that are important to us. For they are the goods we enjoy directly. Sending away our >valuable production is not an economic good in itself. It is an economic “bad,” for we lose something unless the exports allow >us to import something even more valuable to ourselves.”
 
 History of economic modeling corresponds with power: not how national corporations that export to “larger economy” are viewed as the base of economic growth, when in reality what is felt locally is local goods and services.
 Page 124 (worth reading) discusses the policy ass-backwardsness of the economic-base model; it forces local actors to try to wrestle with things they cannot control (huge multinational export firms, for example), encouraging them not to drive the corporations away with high labor costs or environmental regulations…”don’t bite the hand that feeds”
 
-^“The development of local dependencies is what economic development is all about.” 
+>“The development of local dependencies is what economic development is all about.” 
 (think Jacobs’ emphasis on import replacement)…
-^”Service-led growth is not only possible, it is the primary mechanism of real economic development.”
+>”Service-led growth is not only possible, it is the primary mechanism of real economic development.”
 
 Closes by talking about the softer factors of location choice – quality of life, schools, environment, etc. Puts people at the heart of economic development policy rather than businesses, necessarily
 
@@ -61,7 +61,7 @@ Theorize about three types of consumption bases:
 
 Casinos, theater, etc can replace people’s purchase of durable goods and swap consumption habits for something that is local and service-oriented
 
-^“selective local-serving capacity investments can capture local consumer dollars and create jobs and multiplier effects on ^their own merits, without reference to the export/import divide.” … impact “hinges on what business owners and workers … are ^doing with their incomes.”
+>“selective local-serving capacity investments can capture local consumer dollars and create jobs and multiplier effects on >their own merits, without reference to the export/import divide.” … impact “hinges on what business owners and workers … are >doing with their incomes.”
 
 *Also consider: Are employees spending dollars locally? (sporting events create dollar expenditures that don’t recirculate)? *Are the jobs created displacing other local dollars spent? (e.g wal-mart) – and do those profits get recirculated locally
 
