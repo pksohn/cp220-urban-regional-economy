@@ -1,3 +1,7 @@
+City Planning 220 - Urban and Regional Economy  
+September 14, 2016  
+Economic Base Theory
+
 # Reading notes
 
 ## North vs. Tiebout
